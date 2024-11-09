@@ -5,7 +5,7 @@ __      _____  _ __| | __| | __ _ _   _  ___  ___ ___ _ __
  \ V  V / (_) | |  | | (_| | (_| | |_| |  __/\__ \__ \ |
   \_/\_/ \___/|_|  |_|\__,_|\__, |\__,_|\___||___/___/_|  API
                             |___/
-A game by Gautam
+A game by Jayden
 
 https://github.com/codergautam/worldguessr
 */
