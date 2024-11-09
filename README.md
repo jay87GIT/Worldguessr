@@ -72,4 +72,4 @@ Distributed under the MIT License. You are free to use, modify, and distribute t
 
 Join the Discord community [here](https://discord.gg/yenVspFmkB) to discuss new features, report bugs, talk to the developers and connect with other players.
 
-You can email me privately at gautam@codergautam.dev
+You can email me privately at jayden.o.yip@gmail.com
