@@ -7,7 +7,7 @@ __      _____  _ __| | __| | __ _ _   _  ___  ___ ___ _ __
                             |___/
 A game by Jayden
 
-https://github.com/codergautam/worldguessr
+https://github.com/jay87GIT/worldguessr
 */
 
 import fs from 'fs';
